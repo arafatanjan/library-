@@ -1,0 +1,22 @@
+[
+    {
+        "title": "q",
+        "author": "q",
+        "isbn": 24823,
+        "year": 1,
+        "price": 1,
+        "quantity": 1,
+        "bookAddedAt": "13-12-2024 18:54:51",
+        "bookLastUpdatedAt": ""
+    },
+    {
+        "title": "q",
+        "author": "q",
+        "isbn": 96446,
+        "year": 1,
+        "price": 1,
+        "quantity": 1,
+        "bookAddedAt": "13-12-2024 18:55:59",
+        "bookLastUpdatedAt": ""
+    }
+]
